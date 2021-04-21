@@ -2,9 +2,11 @@
 
 ## Team members:
 
-* Haneen Bader
-* Yousef Jalboush
-* abdalla mahmoud khattab
-* Qusai Alnonah
-* Saif Momani
-* Nura Tabanjeh
+- Haneen Bader
+- Yousef Jalboush
+- abdalla mahmoud khattab
+- Qusai Alnonah
+- Saif Momani
+- Nura Tabanjeh
+
+This is saif's code.
